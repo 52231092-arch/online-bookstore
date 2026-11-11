@@ -1,0 +1,32 @@
+.contact-container {
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 30px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .contact-title {
+    color: #2c3e50;
+    margin-bottom: 10px;
+  }
+  
+  .contact-subtitle {
+    color: #666;
+    font-size: 15px;
+    margin-bottom: 25px;
+  }
+  
+  .contact-info-box {
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 6px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+    font-size: 16px;
+    line-height: 1.8;
+    color: #444;
+  }

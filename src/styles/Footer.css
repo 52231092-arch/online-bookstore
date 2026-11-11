@@ -1,0 +1,26 @@
+.footer-container {
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    margin-top: 40px;
+    border-top: 3px solid #34495e;
+  }
+  
+  .footer-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .footer-text {
+    font-size: 14px;
+    margin: 0 0 5px 0;
+    font-weight: bold;
+  }
+  
+  .footer-subtext {
+    font-size: 12px;
+    color: #bdc3c7;
+    margin: 0;
+  }
